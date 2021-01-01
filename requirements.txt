@@ -1,0 +1,4 @@
+matplotlib==3.3.3
+tensorboard==2.4.0
+Keras==2.4.3
+numpy==1.19.3

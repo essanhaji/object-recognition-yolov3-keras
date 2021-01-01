@@ -1,4 +1,3 @@
-
 # load yolov3 model and perform object detection
 # based on https://github.com/experiencor/keras-yolo3
 

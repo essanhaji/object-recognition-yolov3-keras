@@ -15,7 +15,7 @@ model = load_model('yolo3_keras.h5')
 input_w, input_h = (416, 416)
 
 # define our new photo
-photo_filename = 'zebra.jpg'
+photo_filename = 'images/car.jpg'
 
 # load and prepare image
 image, image_w, image_h = load_image_pixels(photo_filename, (input_w, input_h))
