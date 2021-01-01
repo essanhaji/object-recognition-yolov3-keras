@@ -31,6 +31,14 @@ Object recognition with YOLOv3 for Keras users based on [keras yolo3 GitHub repo
    ```
    to encode the `YOLOv3` model format to `Keras` model format.
 
+- Run the `main.py` to get the predected result.
+
+- Try to change the input image to experiment with the model in other objects.
+
+**Note :** tha your input image should be one of the objects that the model trained on, you can find them in the [.classes](/.classes) file.
+
+
+
 <br>
 
 ## Authors
